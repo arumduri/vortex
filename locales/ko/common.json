@@ -1,11 +1,15 @@
 {
   "Dashboard": "대시보드",
+
   "Downloads": "다운로드",
   "Games": "게임",
   "Extensions": "확장",
   "Knowledge Base": "지식 창고",
   "Settings": "설정",
+  
   "Minimize": "축소",
+  "Restore": "확장",
+
   "No Notifications": "알림 없음",
   "Log out": "로그아웃",
   "Show Details": "자세히 보기",
@@ -126,7 +130,6 @@
   "Clean up empty directories during deployment": "배치 중 비어있는 디렉토리 비우기",
   "Caution": "주의",
   "Database backup": "데이터베이스 백업",
-  "Restore": "되돌리기",
   "Create Backup": "백업 생성",
   "Clone": "복제",
   "Please clone this theme to modify it.": "이 테마를 수정하려면 복제해주세요.",
@@ -143,7 +146,7 @@
   "Actions": "작업",
   "Status": "상태",
   "Name": "이름",
-  "Endorsed": "승인",
+  "Endorsed": "추천함",
   "Author": "제작자",
   "Version": "버전",
   "URL(s)": "URL",
@@ -195,7 +198,7 @@
   "Restart": "재시작",
   "Undecided": "미정",
   "Abstained": "중단",
-  "Endorsement disabled by author": "작성자가 등록을 비활성화함",
+  "Endorsement disabled by author": "제작자가 평가를 비활성화함",
   "Uncapped downloads, no adverts": "무제한 다운로드, 광고 제거",
   "Support Nexus Mods": "Nexus Mods 지원하기",
   "Log in": "로그인",
@@ -217,5 +220,9 @@
   "*crickets chirp*": "*조-용*",
   "This directory doesn't appear to contain the game. Expected to find these files: {{ files }}": "이 디렉토리에는 게임이 포함되어 있지 않은 것으로 보입니다. {{ files }} 파일이 있어야 합니다.",
   "Game not found": "게임을 찾을 수 없음",
-  "Try Again": "재시도"
+  "Try Again": "재시도",
+  "Please select the type of feedback you'd like to send in.": "보내시려는 피드백의 유형을 선택해주세요.",
+  "Bug Report": "버그 보고",
+  "Suggestion": "제안",
+  "Question": "질문"
 }
