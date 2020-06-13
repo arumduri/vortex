@@ -1,15 +1,12 @@
 {
   "Dashboard": "대시보드",
-
   "Downloads": "다운로드",
   "Games": "게임",
   "Extensions": "확장",
   "Knowledge Base": "지식 창고",
   "Settings": "설정",
-  
   "Minimize": "축소",
   "Restore": "확장",
-
   "No Notifications": "알림 없음",
   "Log out": "로그아웃",
   "Show Details": "자세히 보기",
@@ -61,7 +58,7 @@
   "Logout": "로그아웃",
   "When you are managing a game, supported tools will appear here": "게임을 관리하고 있다면 지원되는 도구가 여기에 표시됩니다",
   "You don't have any recently managed games": "최근에 관리한 게임 없음",
-  "Recently Managed": "최근 관리함",
+  "Recently Managed": "최근 관리",
   "Announcements": "공지",
   "No Announcements": "공지 없음",
   "No news is good news!": "소식이 없다는 건 좋은 소식입니다!",
@@ -146,7 +143,7 @@
   "Actions": "작업",
   "Status": "상태",
   "Name": "이름",
-  "Endorsed": "추천함",
+  "Endorsed": "추천",
   "Author": "제작자",
   "Version": "버전",
   "URL(s)": "URL",
@@ -154,7 +151,7 @@
   "browse for file": "파일 탐색",
   "or": "또는",
   "Drop {{ accept }}": "{{ accept }}을(를) 여기에 드래그",
-  "Enabled": "활성화됨",
+  "Enabled": "활성화",
   "Home": "홈",
   "Open in Browser": "브라우저에서 열기",
   "Managed ({{filterCount}})": "관리 중 ({{filterCount}})",
@@ -169,7 +166,7 @@
   "Can't find the game you're looking for?": "원하는 게임을 찾지 못하셨나요?",
   "Your game may not be supported yet but adding it yourself may be easier than you think. Click to learn how!": "아직 원하시는 게임이 지원되지 않을 수도 있지만 직접 추가하는 것도 어렵지 않습니다. 방법에 대해서 알아보려면 클릭해주세요!",
   "Scan for Games": "게임 스캔",
-  "Contributed by {{name}}": "Contributed by {{name}}가 기여함",
+  "Contributed by {{name}}": "{{name}}가 기여함",
   "Not fully tested, please provide feedback": "완전히 테스트되지 않았으며, 피드백이 필요합니다",
   "Beta": "베타",
   "Manage": "관리",
@@ -193,7 +190,7 @@
   "Dismiss": "확인",
   "Game discovery": "게임 탐색",
   "Stop Scan": "스캔 중지",
-  "Disabled": "비활성화됨",
+  "Disabled": "비활성화",
   "You need to restart Vortex to apply changes.": "변경 사항을 적용하려면 Vortex를 재시작해야 합니다.",
   "Restart": "재시작",
   "Undecided": "미정",
@@ -209,7 +206,7 @@
   "Introduction Video": "소개 영상",
   "Vortex Introduction": "Vortex 소개",
   "More Videos by {{author}}": "{{author}}의 더 많은 영상 보기",
-  "Select a game to manage": "관리할 게임 선택하기",
+  "Select a game to manage": "관리할 게임 선택",
   "Profile Management": "프로필 관리",
   "Yes": "켜짐",
   "No": "꺼짐",
@@ -224,5 +221,6 @@
   "Please select the type of feedback you'd like to send in.": "보내시려는 피드백의 유형을 선택해주세요.",
   "Bug Report": "버그 보고",
   "Suggestion": "제안",
-  "Question": "질문"
+  "Question": "질문",
+  "Click to {{ clickMode }}": "{{ clickMode }}하려면 클릭"
 }
