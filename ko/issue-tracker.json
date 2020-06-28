@@ -1,6 +1,18 @@
-{
+﻿{
   "Your issues": "내 이슈",
-  "Refresh Issues": "이슈 갱신하기",
-  "No reported issues": "보고된 이슈 없음",
-  "Lucky you...": "운이 좋군요..."
+  "Refresh Issues": "이슈 새로고침",
+  "No reported issues": "알려진 이슈 없음",
+  "Lucky you...": "운이 좋네요...",
+  "Bug": "버그",
+  "Feedback required": "피드백 필요",
+  "Closed": "닫힘",
+  "{{completion}}%{{planned}}": "{{completion}}%{{planned}}",
+  ", planned for {{date}}": ", {{date}}에 계획됨",
+  "Milestone: {{title}} ({{state}})": "마일스톤: {{title}} ({{state}})",
+  "Open": "열기",
+  "{{ count }} comments": "댓글 {{ count }}개",
+  "You've received feedback response": "피드백에 대한 답변이 왔습니다",
+  "The Vortex developers require your assistance with a bug/suggestion which you have submitted. To view our response please click on any of the below links: <br /><br />{{ urlString }}": "Vortex 개발자들이  당신이 제출한 버그/제안에 대해서 추가적인 도움을 필요로 합니다. 응답을 보려면 하단의 링크를 클릭해주세요: <br /><br />{{ urlString }}",
+  "More": "더보기",
+  "Close": "닫기"
 }
