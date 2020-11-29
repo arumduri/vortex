@@ -1,0 +1,4 @@
+﻿{
+  "\"Stracker's Loader\" not installed/configured": "\"Stracker's Loader\" not installed/configured",
+  "You're attempting to install what appears to be a ReShade mod, but Vortex is unable to confirm whether\n ReShade is installed. \n\nThe mod will still be installed, but please keep in mind that this mod will not function without ReShade.": "You're attempting to install what appears to be a ReShade mod, but Vortex is unable to confirm whether\n ReShade is installed. \n\nThe mod will still be installed, but please keep in mind that this mod will not function without ReShade."
+}

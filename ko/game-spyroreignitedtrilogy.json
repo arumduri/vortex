@@ -1,0 +1,5 @@
+﻿{
+  "Changing your load order": "Changing your load order",
+  "Drag and drop the mods on the left to reorder them. Spyro Reignited Trilogy loads mods in alphanumerical order so Vortex prefixes the directory names with \"AAA, AAB, AAC, ...\" to ensure they load in the order you set here. Mods placed at the bottom of the load order will have priority over those above them.": "Drag and drop the mods on the left to reorder them. Spyro Reignited Trilogy loads mods in alphanumerical order so Vortex prefixes the directory names with \"AAA, AAB, AAC, ...\" to ensure they load in the order you set here. Mods placed at the bottom of the load order will have priority over those above them.",
+  "Note: You can only manage mods installed with Vortex. Installing other mods manually may cause unexpected errors.": "Note: You can only manage mods installed with Vortex. Installing other mods manually may cause unexpected errors."
+}

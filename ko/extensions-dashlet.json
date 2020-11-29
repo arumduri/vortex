@@ -1,10 +1,10 @@
 ﻿{
-  "Latest Extensions": "최신 확장",
-  "Please endorse extensions you like": "좋아하는 확장을 추천해보세요",
-  "Not now": "나중에",
-  "By {{author}}": "{{author}} 제작",
-  "Install": "설치",
-  "Endorse": "추천",
-  "Abstain": "비추천",
-  "Extension installed, please restart Vortex to enable it": "확장이 설치되었으며, 활성화하려면 Vortex를 재시작해야 합니다"
+  "Latest Extensions": "Latest Extensions",
+  "Please endorse extensions you like": "Please endorse extensions you like",
+  "Not now": "Not now",
+  "By {{author}}": "By {{author}}",
+  "Install": "Install",
+  "Endorse": "Endorse",
+  "Abstain": "Abstain",
+  "Extension installed, please restart Vortex to enable it": "Extension installed, please restart Vortex to enable it"
 }
