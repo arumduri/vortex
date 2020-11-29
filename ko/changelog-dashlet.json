@@ -1,6 +1,6 @@
 ﻿{
-  "Changelog": "Changelog",
-  "Previous": "Previous",
-  "Pre-release": "Pre-release",
-  "Next": "Next"
+  "Changelog": "변경 사항",
+  "Previous": "이전",
+  "Pre-release": "베타",
+  "Next": "다음"
 }

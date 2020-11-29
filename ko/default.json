@@ -1,5 +1,5 @@
 ﻿{
-  "Savegame folder monitoring": "Savegame folder monitoring",
-  "Monitor Savegame directory for changes": "Monitor Savegame directory for changes",
-  "If your games take very long to save when Vortex is running, try disabling this.": "If your games take very long to save when Vortex is running, try disabling this."
+  "Savegame folder monitoring": "게임 세이브 폴더를 모니터링하고 있습니다",
+  "Monitor Savegame directory for changes": "게임 세이브 폴더 변경사항 모니터링하기",
+  "If your games take very long to save when Vortex is running, try disabling this.": "Vortex가 실행되고 있을 때 게임 저장이 매우 오래 걸린다면 비활성화해보세요."
 }

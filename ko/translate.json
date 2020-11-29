@@ -1,5 +1,5 @@
 ﻿{
-  "Translate": "Translate",
-  "Create": "Create",
+  "Translate": "번역",
+  "Create": "생성",
   "When you create a language here it will be created in {{ langPath }}. As long as the language is active, missing translations will be added to the translation files automatically as you come across them inside Vortex. When you edit those files, changes will become visible immediately.": "When you create a language here it will be created in {{ langPath }}. As long as the language is active, missing translations will be added to the translation files automatically as you come across them inside Vortex. When you edit those files, changes will become visible immediately."
 }
